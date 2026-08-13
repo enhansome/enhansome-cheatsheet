@@ -1,0 +1,1021 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "If you see a link here is not fit, you can fix it or provide a better link by submitting a PR to improve this file. Thank you!"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docker",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dockerfiles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dockerfile",
+                "last_commit": "2024-07-06T12:33:12Z",
+                "owner": "jessfraz",
+                "repo": "dockerfiles",
+                "stars": 13935
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-31T03:00:47Z",
+            "owner": "wsargent",
+            "repo": "docker-cheat-sheet",
+            "stars": 22535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saltstack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:56:39Z",
+            "owner": "saltstack",
+            "repo": "salt",
+            "stars": 15613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nginx-cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-12-06T08:00:15Z",
+            "owner": "SimulatedGREG",
+            "repo": "nginx-cheatsheet",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ios-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UI-Testing-Cheat-Sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2020-04-29T20:42:52Z",
+                "owner": "joemasilotti",
+                "repo": "UI-Testing-Cheat-Sheet",
+                "stars": 2166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS-App-Performance-Cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2022-09-09T12:22:28Z",
+                "owner": "danielamitay",
+                "repo": "iOS-App-Performance-Cheatsheet",
+                "stars": 758
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-05T16:52:44Z",
+            "owner": "Avocarrot",
+            "repo": "ios-cheatsheet",
+            "stars": 290
+          }
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "golang-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cheat sheet for some of the common concurrent flows in Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Go",
+                "last_commit": "2015-10-06T15:47:03Z",
+                "owner": "rakyll",
+                "repo": "coop",
+                "stars": 1193
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-08T10:46:16Z",
+            "owner": "a8m",
+            "repo": "golang-cheat-sheet",
+            "stars": 8816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solidity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T02:30:43Z",
+            "owner": "manojpramesh",
+            "repo": "solidity-cheatsheet",
+            "stars": 1506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "objective-c-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-09T02:32:44Z",
+            "owner": "iwasrobbed",
+            "repo": "Objective-C-CheatSheet",
+            "stars": 1361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swift cheatsheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "swift design patterns",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2024-08-03T07:30:28Z",
+                "owner": "ochococo",
+                "repo": "Design-Patterns-In-Swift",
+                "stars": 15257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Playgrounds",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2026-04-02T08:35:32Z",
+                "owner": "uraimo",
+                "repo": "Awesome-Swift-Playgrounds",
+                "stars": 4384
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-29T21:50:49Z",
+            "owner": "iwasrobbed",
+            "repo": "Swift-CheatSheet",
+            "stars": 1005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elm-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elm",
+            "last_commit": "2018-04-27T10:21:28Z",
+            "owner": "izdi",
+            "repo": "elm-cheat-sheet",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shell-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oh-my-zsh cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-11T11:03:43Z",
+                "owner": "ohmyzsh",
+                "repo": "ohmyzsh",
+                "stars": 189154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-shell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-08-28T14:40:51Z",
+                "owner": "alebcay",
+                "repo": "awesome-shell",
+                "stars": 37436
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "bash cheat sheet",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "awesome-bash",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2026-05-21T14:27:17Z",
+                    "owner": "awesome-lists",
+                    "repo": "awesome-bash",
+                    "stars": 9987
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bash redirections",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2023-05-19T20:55:54Z",
+                    "owner": "pkrumins",
+                    "repo": "bash-redirections-cheat-sheet",
+                    "stars": 324
+                  }
+                }
+              ]
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-15T16:16:23Z",
+            "owner": "NisreenFarhoud",
+            "repo": "Bash-Cheatsheet",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ragel-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-22T08:29:46Z",
+            "owner": "calio",
+            "repo": "ragel-cheat-sheet",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A collection of Ruby Net::HTTP examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2019-04-03T04:53:58Z",
+                "owner": "augustl",
+                "repo": "net-http-cheat-sheet",
+                "stars": 1147
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-04T18:02:50Z",
+            "owner": "brennovich",
+            "repo": "cheat-ruby-sheets",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coffeescript_cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-01-26T13:50:37Z",
+            "owner": "icebob",
+            "repo": "coffeescript_cheatsheet",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "java-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "java8-cheat-sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-10-02T08:35:21Z",
+                "owner": "BafS",
+                "repo": "Java8-CheatSheet",
+                "stars": 505
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "javascript-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "es6-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-10-08T07:44:38Z",
+                "owner": "DrkSephy",
+                "repo": "es6-cheatsheet",
+                "stars": 13326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "npm-vs-yarn-cheat-sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-08-26T12:48:45Z",
+                "owner": "areai51",
+                "repo": "yarn-cheatsheet",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javascript-design-pattern",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-06-29T09:25:29Z",
+                "owner": "nnupoor",
+                "repo": "js_designpatterns",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "python-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "python future",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-24T14:11:10Z",
+                "owner": "PythonCharmers",
+                "repo": "python-future",
+                "stars": 1189
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "php-cheat-sheet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PHP7-Reference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-08-14T01:02:59Z",
+                "owner": "tpunt",
+                "repo": "PHP7-Reference",
+                "stars": 1369
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Programming Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "es6-cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-08T07:44:38Z",
+            "owner": "DrkSephy",
+            "repo": "es6-cheatsheet",
+            "stars": 13326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-11T02:36:03Z",
+            "owner": "petehunt",
+            "repo": "webpack-howto",
+            "stars": 10002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-30T07:49:42Z",
+            "owner": "sapegin",
+            "repo": "jest-cheat-sheet",
+            "stars": 5421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-styling-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-12T17:19:33Z",
+            "owner": "vhpoet",
+            "repo": "react-native-styling-cheat-sheet",
+            "stars": 4957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-cheat-sheet",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Front-End Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "laravel-cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-10-02T07:28:35Z",
+            "owner": "jesseobrien",
+            "repo": "laravel-cheatsheet",
+            "stars": 1219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-20T18:24:05Z",
+            "owner": "lucrae",
+            "repo": "django-cheat-sheet",
+            "stars": 809
+          }
+        }
+      ],
+      "title": "Back-End Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MongoDb-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-20T21:09:03Z",
+            "owner": "leojavier",
+            "repo": "MongoDb-cheat-sheet",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Db2 CheatSheet for development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-02-24T01:44:25Z",
+            "owner": "angoca",
+            "repo": "db2-cheat-sheet",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "acm-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2022-09-11T09:04:06Z",
+            "owner": "soulmachine",
+            "repo": "acm-cheat-sheet",
+            "stars": 1716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "regular-expression-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-19T08:01:50Z",
+            "owner": "niklongstone",
+            "repo": "regular-expression-cheat-sheet",
+            "stars": 301
+          }
+        }
+      ],
+      "title": "Theory"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-11T11:47:00Z",
+            "owner": "nwinkler",
+            "repo": "atom-keyboard-shortcuts",
+            "stars": 1928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarkDown Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mermaid",
+            "last_commit": "2025-07-12T15:09:57Z",
+            "owner": "lifeparticle",
+            "repo": "Markdown-Cheatsheet",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eclipse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-12T14:36:34Z",
+            "owner": "pellaton",
+            "repo": "eclipse-cheatsheet",
+            "stars": 208
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mac-command-line-cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-04T11:01:49Z",
+            "owner": "herrbischoff",
+            "repo": "awesome-macos-command-line",
+            "stars": 30823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sysadmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-26T23:45:17Z",
+            "owner": "kahun",
+            "repo": "awesome-sysadmin",
+            "stars": 24347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Cheat Sheet and Git Flow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github-cheat-sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-04-15T20:15:56Z",
+                "owner": "tiimgreen",
+                "repo": "github-cheat-sheet",
+                "stars": 58490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-style-guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-09-26T20:12:02Z",
+                "owner": "agis",
+                "repo": "git-style-guide",
+                "stars": 5118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-flow-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2024-12-18T10:38:18Z",
+                "owner": "danielkummer",
+                "repo": "git-flow-cheatsheet",
+                "stars": 2513
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-04T07:50:34Z",
+            "owner": "arslanbilal",
+            "repo": "git-cheat-sheet",
+            "stars": 7423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terminal-mac-cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-17T14:36:20Z",
+            "owner": "0nn0",
+            "repo": "terminal-mac-cheatsheet",
+            "stars": 7402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSpec cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-07-26T09:46:32Z",
+            "owner": "eliotsykes",
+            "repo": "rspec-rails-examples",
+            "stars": 2148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDAL/OGR command-line tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-13T09:13:32Z",
+            "owner": "dwtkns",
+            "repo": "gdal-cheat-sheet",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-19T11:32:43Z",
+            "owner": "curl",
+            "repo": "curl-cheat-sheet",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kafka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-23T08:07:36Z",
+            "owner": "lensesio",
+            "repo": "kafka-cheat-sheet",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systemtap-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-21T19:03:30Z",
+            "owner": "calio",
+            "repo": "systemtap-cheat-sheet",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HTML5 Security Cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-23T16:46:20Z",
+            "owner": "cure53",
+            "repo": "H5SC",
+            "stars": 2944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security Tools Cheatsheets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-18T02:18:03Z",
+            "owner": "andrewjkerr",
+            "repo": "security-cheatsheets",
+            "stars": 1393
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "math-as-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-08T02:36:31Z",
+            "owner": "Experience-Monks",
+            "repo": "math-as-code",
+            "stars": 15485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cheatsheets-ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-19T12:33:06Z",
+            "owner": "kailashahirwar",
+            "repo": "cheatsheets-ai",
+            "stars": 15426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easings.net",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-04-07T06:03:38Z",
+            "owner": "ai",
+            "repo": "easings.net",
+            "stars": 8663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileApp-Pentest-Cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-08T14:18:04Z",
+            "owner": "tanprathan",
+            "repo": "MobileApp-Pentest-Cheatsheet",
+            "stars": 5251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "api-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-03T06:45:24Z",
+            "owner": "RestCheatSheet",
+            "repo": "api-cheat-sheet",
+            "stars": 1161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Systems Programming Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2021-07-02T18:21:52Z",
+            "owner": "jstrieb",
+            "repo": "systems-programming-cheat-sheet",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Streaming Cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-04-08T17:03:25Z",
+            "owner": "robert-will-brown",
+            "repo": "video-streaming-cheatsheet",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:14:04.442Z",
+    "original_repository": "detailyang/awesome-cheatsheet",
+    "original_repository_sha": "e7507591b93e2cfd924a55e4ccb8056c44c43ac5",
+    "enhanced_repository": "enhansome/enhansome-cheatsheet",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cheatsheet with stars"
+  }
+}
