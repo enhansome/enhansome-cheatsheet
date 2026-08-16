@@ -2,11 +2,11 @@
 
 # Awesome Cheatsheet with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,020 | 🐛 100 | 📅 2026-06-30 ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square) [![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,414 | 🐛 100 | 📅 2026-06-30 ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square) [![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
 
 > List of useful cheatsheets
 
-Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,020 | 🐛 100 | 📅 2026-06-30 and improved by these **[amazing contributors](https://github.com/detailyang/awesome-cheatsheet/graphs/contributors) ⭐ 8,526 | 🐛 8 | 🌐 Python | 📅 2026-03-26**.
+Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,414 | 🐛 100 | 📅 2026-06-30 and improved by these **[amazing contributors](https://github.com/detailyang/awesome-cheatsheet/graphs/contributors) ⭐ 8,525 | 🐛 8 | 🌐 Python | 📅 2026-03-26**.
 
 #### *If you see a link here is not fit, you can fix it or provide a better link by submitting a [PR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdetailyang%2Fawesome-cheatsheet%2Fedit%2Fmaster%2FREADME.md) to improve this file. Thank you!*
 
@@ -29,9 +29,9 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Platforms
 
-* [docker](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,537 | 🐛 7 | 📅 2024-12-31
+* [docker](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,539 | 🐛 7 | 📅 2024-12-31
   * [dockerfiles](https://github.com/jessfraz/dockerfiles) ⭐ 13,935 | 🐛 79 | 🌐 Dockerfile | 📅 2024-07-06
-* [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet) ⭐ 15,615 | 🐛 1,916 | 🌐 Python | 📅 2026-08-15
+* [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet) ⭐ 15,614 | 🐛 1,925 | 🌐 Python | 📅 2026-08-16
 * [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) ⭐ 342 | 🐛 0 | 📅 2016-12-06
 * [ios-cheat-sheet](https://github.com/Avocarrot/ios-cheatsheet) ⭐ 290 | 🐛 3 | 📅 2018-03-05
   * [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) ⭐ 2,166 | 🐛 0 | 🌐 Swift | 📅 2020-04-29
@@ -51,10 +51,10 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
   * [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) ⭐ 4,385 | 🐛 1 | 🌐 Swift | 📅 2026-04-02
 * [elm-cheat-sheet](https://github.com/izdi/elm-cheat-sheet) ⭐ 947 | 🐛 2 | 🌐 Elm | 📅 2018-04-27
 * [shell-cheat-sheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet) ⭐ 380 | 🐛 5 | 📅 2023-03-15
-  * [oh-my-zsh cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet) ⭐ 189,201 | 🐛 592 | 🌐 Shell | 📅 2026-08-11
-  * [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,453 | 🐛 184 | 📅 2025-08-28
+  * [oh-my-zsh cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet) ⭐ 189,216 | 🐛 595 | 🌐 Shell | 📅 2026-08-16
+  * [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,449 | 🐛 185 | 📅 2025-08-28
   * [bash cheat sheet](https://learncodethehardway.org/unix/)
-    * [awesome-bash](https://github.com/awesome-lists/awesome-bash) ⭐ 9,992 | 🐛 6 | 🌐 Shell | 📅 2026-05-21
+    * [awesome-bash](https://github.com/awesome-lists/awesome-bash) ⭐ 9,996 | 🐛 6 | 🌐 Shell | 📅 2026-05-21
     * [bash redirections](https://github.com/pkrumins/bash-redirections-cheat-sheet) ⭐ 324 | 🐛 7 | 📅 2023-05-19
   * [fish](https://fishshell.com/docs/current/commands.html)
   * [Shell scripting cheatsheet - Devhints](https://devhints.io/bash)
@@ -116,7 +116,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 * [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) ⭐ 13,326 | 🐛 7 | 🌐 JavaScript | 📅 2022-10-08
 * [webpack](https://github.com/petehunt/webpack-howto) ⭐ 10,002 | 🐛 51 | 🌐 JavaScript | 📅 2017-08-11
-* [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) ⭐ 5,421 | 🐛 0 | 📅 2024-10-30
+* [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) ⭐ 5,422 | 🐛 0 | 📅 2024-10-30
 * [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) ⭐ 4,957 | 🐛 1 | 📅 2022-12-12
 * [angular2](https://angular.io/guide/cheatsheet)
 * [angularjs](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
@@ -150,7 +150,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Big Data
 
-* [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,045 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
+* [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,044 | 🐛 11 | 🌐 TeX | 📅 2024-07-30
 * [data-structure](https://www.scaler.com/topics/data-structures)
 
 ## Databases
@@ -202,7 +202,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 * [mac-command-line-cheatsheet](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
 * [sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 269 | 📅 2024-03-26
 * [Git Cheat Sheet and Git Flow](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,426 | 🐛 2 | 📅 2026-03-04
-  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,519 | 🐛 48 | 📅 2024-04-15
+  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,536 | 🐛 48 | 📅 2024-04-15
   * [git-style-guide](https://github.com/agis/git-style-guide) ⭐ 5,118 | 🐛 0 | 📅 2022-09-26
   * [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) ⭐ 2,513 | 🐛 22 | 🌐 HTML | 📅 2024-12-18
   * [git\_cheat\_sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
@@ -228,11 +228,11 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Media
 
-* [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) ⭐ 9,905 | 🐛 3 | 📅 2026-01-22
+* [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) ⭐ 9,904 | 🐛 3 | 📅 2026-01-22
 
 ## Security
 
-* [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) ⭐ 2,945 | 🐛 2 | 🌐 JavaScript | 📅 2022-02-23
+* [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC) ⭐ 2,939 | 🐛 2 | 🌐 JavaScript | 📅 2022-02-23
 * [Security Tools Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) ⭐ 1,394 | 🐛 1 | 📅 2022-03-18
 * [oauthsecurity](https://sakurity.com/oauth)
 * [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)
@@ -247,15 +247,15 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 
 ## Miscellaneous
 
-* [math-as-code](https://github.com/Jam3/math-as-code) ⭐ 15,487 | 🐛 36 | 📅 2022-03-08
+* [math-as-code](https://github.com/Jam3/math-as-code) ⭐ 15,486 | 🐛 36 | 📅 2022-03-08
 * [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) ⭐ 15,428 | 🐛 12 | 📅 2019-10-19
 * [easings.net](https://github.com/ai/easings.net) ⭐ 8,665 | 🐛 28 | 🌐 CSS | 📅 2026-04-07
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) ⭐ 5,253 | 🐛 17 | 📅 2024-02-08
-* [api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet) ⭐ 1,161 | 🐛 4 | 📅 2024-06-03
-* [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) ⭐ 383 | 🐛 0 | 🌐 TeX | 📅 2021-07-02
+* [api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet) ⭐ 1,160 | 🐛 4 | 📅 2024-06-03
+* [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) ⭐ 384 | 🐛 0 | 🌐 TeX | 📅 2021-07-02
 * [Video Streaming Cheatsheet](https://github.com/robert-will-brown/video-streaming-cheatsheet) ⭐ 26 | 🐛 4 | 🌐 TeX | 📅 2024-04-08
 * [Network-related cheatsheets](https://web.archive.org/web/20240612064952/https://packetlife.net/library/cheat-sheets/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
