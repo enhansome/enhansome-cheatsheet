@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T06:00:38Z",
+            "last_commit": "2026-08-16T21:19:22Z",
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15614
+            "stars": 15617
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2023-11-08T10:46:16Z",
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8815
+            "stars": 8817
           }
         },
         {
@@ -187,7 +187,7 @@
                 "last_commit": "2024-08-03T07:30:28Z",
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15257
+                "stars": 15258
               }
             },
             {
@@ -241,10 +241,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Shell",
-                "last_commit": "2026-08-16T12:54:20Z",
+                "last_commit": "2026-08-17T09:12:39Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189216
+                "stars": 189217
               }
             },
             {
@@ -258,7 +258,7 @@
                 "last_commit": "2025-08-28T14:40:51Z",
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37449
+                "stars": 37458
               }
             },
             {
@@ -277,7 +277,7 @@
                     "last_commit": "2026-05-21T14:27:17Z",
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 9996
+                    "stars": 10002
                   }
                 },
                 {
@@ -400,7 +400,7 @@
                 "last_commit": "2022-10-08T07:44:38Z",
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13326
+                "stars": 13325
               }
             },
             {
@@ -492,7 +492,7 @@
             "last_commit": "2022-10-08T07:44:38Z",
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13326
+            "stars": 13325
           }
         },
         {
@@ -710,7 +710,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30829
+            "stars": 30834
           }
         },
         {
@@ -743,7 +743,7 @@
                 "last_commit": "2024-04-15T20:15:56Z",
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58536
+                "stars": 58558
               }
             },
             {
@@ -771,7 +771,7 @@
                 "last_commit": "2024-12-18T10:38:18Z",
                 "owner": "danielkummer",
                 "repo": "git-flow-cheatsheet",
-                "stars": 2513
+                "stars": 2514
               }
             }
           ],
@@ -781,7 +781,7 @@
             "last_commit": "2026-03-04T07:50:34Z",
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7426
+            "stars": 7427
           }
         },
         {
@@ -899,7 +899,7 @@
             "last_commit": "2022-03-18T02:18:03Z",
             "owner": "andrewjkerr",
             "repo": "security-cheatsheets",
-            "stars": 1394
+            "stars": 1393
           }
         }
       ],
@@ -919,7 +919,7 @@
             "last_commit": "2022-03-08T02:36:31Z",
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15486
+            "stars": 15485
           }
         },
         {
@@ -947,7 +947,7 @@
             "last_commit": "2026-04-07T06:03:38Z",
             "owner": "ai",
             "repo": "easings.net",
-            "stars": 8665
+            "stars": 8664
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2024-02-08T14:18:04Z",
             "owner": "tanprathan",
             "repo": "MobileApp-Pentest-Cheatsheet",
-            "stars": 5253
+            "stars": 5255
           }
         },
         {
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:41:02.600Z",
+    "last_updated": "2026-08-17T15:46:43.258Z",
     "original_repository": "detailyang/awesome-cheatsheet",
     "original_repository_sha": "e7507591b93e2cfd924a55e4ccb8056c44c43ac5",
     "enhanced_repository": "enhansome/enhansome-cheatsheet",
