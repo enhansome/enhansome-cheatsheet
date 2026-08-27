@@ -31,7 +31,7 @@
             "last_commit": "2024-12-31T03:00:47Z",
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22543
+            "stars": 22544
           }
         },
         {
@@ -43,10 +43,10 @@
             "archived": false,
             "id": 1390248,
             "language": "Python",
-            "last_commit": "2026-08-26T16:28:04Z",
+            "last_commit": "2026-08-27T10:18:23Z",
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15636
+            "stars": 15637
           }
         },
         {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-25T14:40:25Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189383
+                "stars": 189408
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2025-08-28T14:40:51Z",
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37512
+                "stars": 37514
               }
             },
             {
@@ -290,7 +290,7 @@
                     "last_commit": "2026-05-21T14:27:17Z",
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10047
+                    "stars": 10049
                   }
                 },
                 {
@@ -743,7 +743,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30852
+            "stars": 30854
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2024-03-26T23:45:17Z",
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24352
+            "stars": 24351
           }
         },
         {
@@ -778,7 +778,7 @@
                 "last_commit": "2024-04-15T20:15:56Z",
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58725
+                "stars": 58731
               }
             },
             {
@@ -793,7 +793,7 @@
                 "last_commit": "2022-09-26T20:12:02Z",
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5115
+                "stars": 5116
               }
             },
             {
@@ -864,7 +864,7 @@
             "last_commit": "2024-06-13T09:13:32Z",
             "owner": "dwtkns",
             "repo": "gdal-cheat-sheet",
-            "stars": 1222
+            "stars": 1223
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2022-03-08T02:36:31Z",
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15487
+            "stars": 15488
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2019-10-19T12:33:06Z",
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15427
+            "stars": 15428
           }
         },
         {
@@ -1064,9 +1064,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:08.816Z",
-    "original_repository": "detailyang/awesome-cheatsheet",
-    "original_repository_id": 13767276,
+    "last_updated": "2026-08-27T11:29:27.893Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 13767276,
+      "language": "Python",
+      "last_commit": "2026-03-26T09:44:15Z",
+      "owner": "detailyang",
+      "repo": "awesome-cheatsheet",
+      "stars": 8538
+    },
     "original_repository_sha": "e7507591b93e2cfd924a55e4ccb8056c44c43ac5",
     "enhanced_repository": "enhansome/enhansome-cheatsheet",
     "enhanced_repository_description": null,
