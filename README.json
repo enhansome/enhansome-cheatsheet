@@ -15,24 +15,45 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various Dockerfiles I use on the desktop and on servers.",
+                "homepage": "https://blog.jessfraz.com/post/docker-containers-on-the-desktop/",
                 "id": 23929024,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2024-07-06T12:33:12Z",
+                "open_issues": 77,
                 "owner": "jessfraz",
                 "repo": "dockerfiles",
-                "stars": 13936
+                "stars": 13936,
+                "topics": [
+                  "bash",
+                  "containers",
+                  "docker",
+                  "dockerfile",
+                  "dockerfiles",
+                  "linux",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Docker Cheat Sheet",
+            "homepage": null,
             "id": 22657662,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-12-31T03:00:47Z",
+            "open_issues": 7,
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22544
+            "stars": 22544,
+            "topics": [
+              "cheet-sheet",
+              "docker"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -43,12 +64,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software to automate the management and configuration of infrastructure and applications at scale.",
+            "homepage": "https://docs.saltproject.io/salt/install-guide/en/latest/",
             "id": 1390248,
             "language": "Python",
-            "last_commit": "2026-08-28T01:23:38Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:23:33Z",
+            "open_issues": 1942,
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15637
+            "stars": 15638,
+            "topics": [
+              "cloud",
+              "cloud-management",
+              "cloud-providers",
+              "cloud-provisioning",
+              "configuration-management",
+              "edge",
+              "event-management",
+              "event-stream",
+              "infrastructure",
+              "infrastructure-as-a-code",
+              "infrastructure-as-code",
+              "infrastructure-automation",
+              "infrastructure-management",
+              "iot",
+              "python",
+              "remote-execution",
+              "zeromq"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -59,12 +103,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.",
+            "homepage": null,
             "id": 75707200,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-06T08:00:15Z",
+            "open_issues": 0,
             "owner": "SimulatedGREG",
             "repo": "nginx-cheatsheet",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "cheatsheet",
+              "nginx",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -80,12 +133,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How do I test this with UI Testing?",
+                "homepage": "http://masilotti.com/ui-testing-cheat-sheet/",
                 "id": 42053792,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2020-04-29T20:42:52Z",
+                "open_issues": 0,
                 "owner": "joemasilotti",
                 "repo": "UI-Testing-Cheat-Sheet",
-                "stars": 2166
+                "stars": 2166,
+                "topics": [
+                  "cheatsheet",
+                  "swift",
+                  "ui-testing",
+                  "xctest",
+                  "xcuitest"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -96,24 +160,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A collection of code substitutions and configurations that can improve Objective-C code performance on iOS.",
+                "homepage": null,
                 "id": 14159093,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-09-09T12:22:28Z",
+                "open_issues": 0,
                 "owner": "danielamitay",
                 "repo": "iOS-App-Performance-Cheatsheet",
-                "stars": 758
+                "stars": 758,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A quick reference cheat sheet for iOS developers. ",
+            "homepage": null,
             "id": 19343229,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-03-05T16:52:44Z",
+            "open_issues": 3,
             "owner": "Avocarrot",
             "repo": "ios-cheatsheet",
-            "stars": 290
+            "stars": 290,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -135,24 +209,39 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cheat sheet for some of the common concurrent flows in Go",
+                "homepage": null,
                 "id": 15968733,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2015-10-06T15:47:03Z",
+                "open_issues": 5,
                 "owner": "rakyll",
                 "repo": "coop",
-                "stars": 1193
+                "stars": 1193,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "An overview of Go syntax and features.",
+            "homepage": null,
             "id": 16800723,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-08T10:46:16Z",
+            "open_issues": 24,
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8820
+            "stars": 8820,
+            "topics": [
+              "cheat-sheets",
+              "cheatsheet",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -163,12 +252,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.",
+            "homepage": "https://manojpramesh.github.io/solidity-cheatsheet/",
             "id": 111513785,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-05T02:30:43Z",
+            "open_issues": 0,
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1506
+            "stars": 1506,
+            "topics": [
+              "best-practices",
+              "blockchain",
+              "ethereum",
+              "solidity",
+              "solidity-cheatsheet"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -179,12 +279,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick reference cheat sheet for common, high level topics in Objective-C.",
+            "homepage": null,
             "id": 14605513,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-09T02:32:44Z",
+            "open_issues": 1,
             "owner": "iwasrobbed",
             "repo": "Objective-C-CheatSheet",
-            "stars": 1361
+            "stars": 1361,
+            "topics": [
+              "cheatcheat",
+              "cheatsheets",
+              "ios",
+              "objective-c"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -200,12 +310,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📖 Design Patterns implemented in Swift 5.0",
+                "homepage": null,
                 "id": 21796955,
                 "language": "Swift",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-03T07:30:28Z",
+                "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15257
+                "stars": 15257,
+                "topics": [
+                  "computer-science",
+                  "design-patterns",
+                  "gang-of-four",
+                  "good-practices",
+                  "playground",
+                  "swift",
+                  "swift-5"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -216,24 +339,52 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A List of Awesome Swift Playgrounds",
+                "homepage": null,
                 "id": 50719620,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-02T08:35:32Z",
+                "open_issues": 1,
                 "owner": "uraimo",
                 "repo": "Awesome-Swift-Playgrounds",
-                "stars": 4385
+                "stars": 4385,
+                "topics": [
+                  "apple",
+                  "apple-playground",
+                  "awesome",
+                  "awesome-list",
+                  "learning-swift",
+                  "playground",
+                  "swift",
+                  "swift-language",
+                  "swift-playgrounds",
+                  "swift3",
+                  "swift4"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A quick reference cheat sheet for common, high level topics in Swift.",
+            "homepage": null,
             "id": 26502516,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-29T21:50:49Z",
+            "open_issues": 4,
             "owner": "iwasrobbed",
             "repo": "Swift-CheatSheet",
-            "stars": 1005
+            "stars": 1005,
+            "topics": [
+              "cheatsheet",
+              "cheatsheets",
+              "ios",
+              "swift",
+              "swift-programming-language"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -244,12 +395,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An overview of Elm syntax and features",
+            "homepage": null,
             "id": 51261172,
             "language": "Elm",
+            "license": "MIT",
             "last_commit": "2018-04-27T10:21:28Z",
+            "open_issues": 2,
             "owner": "izdi",
             "repo": "elm-cheat-sheet",
-            "stars": 948
+            "stars": 948,
+            "topics": [
+              "cheatsheet",
+              "education",
+              "elm",
+              "functional-programming",
+              "learn",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -265,12 +428,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+                "homepage": "https://ohmyz.sh",
                 "id": 291137,
                 "language": "Shell",
-                "last_commit": "2026-08-28T23:08:59Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:43:45Z",
+                "open_issues": 574,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189427
+                "stars": 189428,
+                "topics": [
+                  "cli",
+                  "cli-app",
+                  "oh-my-zsh",
+                  "oh-my-zsh-plugin",
+                  "oh-my-zsh-theme",
+                  "ohmyzsh",
+                  "plugin-framework",
+                  "plugins",
+                  "productivity",
+                  "shell",
+                  "terminal",
+                  "theme",
+                  "themes",
+                  "zsh",
+                  "zsh-configuration"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -281,12 +465,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+                "homepage": null,
                 "id": 21552971,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-08-28T14:40:51Z",
+                "open_issues": 185,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37524
+                "stars": 37526,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bash",
+                  "cli",
+                  "fish",
+                  "list",
+                  "shell",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -302,12 +500,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of delightful Bash scripts and resources.",
+                    "homepage": null,
                     "id": 51288857,
                     "language": "Shell",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-05-21T14:27:17Z",
+                    "open_issues": 9,
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10054
+                    "stars": 10054,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "bash"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:02:09.898Z"
                 },
@@ -318,12 +525,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bash redirections cheat sheet",
+                    "homepage": null,
                     "id": 5747328,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-05-19T20:55:54Z",
+                    "open_issues": 7,
                     "owner": "pkrumins",
                     "repo": "bash-redirections-cheat-sheet",
-                    "stars": 324
+                    "stars": 324,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:09.898Z"
                 }
@@ -332,12 +544,17 @@
           ],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 32428616,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2023-03-15T16:16:23Z",
+            "open_issues": 5,
             "owner": "NisreenFarhoud",
             "repo": "Bash-Cheatsheet",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -348,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ragel cheat sheet",
+            "homepage": null,
             "id": 22083566,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2023-07-22T08:29:46Z",
+            "open_issues": 2,
             "owner": "calio",
             "repo": "ragel-cheat-sheet",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -369,24 +591,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Ruby Net::HTTP examples.",
+                "homepage": null,
                 "id": 462071,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-04-03T04:53:58Z",
+                "open_issues": 0,
                 "owner": "augustl",
                 "repo": "net-http-cheat-sheet",
-                "stars": 1147
+                "stars": 1147,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "One cheat sheet repo to rule them all",
+            "homepage": null,
             "id": 13036114,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-04T18:02:50Z",
+            "open_issues": 1,
             "owner": "brennovich",
             "repo": "cheat-ruby-sheets",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -397,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoffeeScript cheatsheet",
+            "homepage": null,
             "id": 29862281,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-01-26T13:50:37Z",
+            "open_issues": 0,
             "owner": "icebob",
             "repo": "coffeescript_cheatsheet",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -418,12 +655,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java 8+ Cheat Sheet for functional programming",
+                "homepage": null,
                 "id": 37693250,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2023-10-02T08:35:21Z",
+                "open_issues": 0,
                 "owner": "BafS",
                 "repo": "Java8-CheatSheet",
-                "stars": 504
+                "stars": 504,
+                "topics": [
+                  "cheatsheet",
+                  "functional-programming",
+                  "java",
+                  "java8",
+                  "lambda-expressions",
+                  "memo",
+                  "resume",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
@@ -441,12 +692,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+                "homepage": "http://slides.com/drksephy/ecmascript-2015",
                 "id": 50134307,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-10-08T07:44:38Z",
+                "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13323
+                "stars": 13322,
+                "topics": [
+                  "cheatsheet",
+                  "es6-javascript",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -457,12 +717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Yarn CheatSheet",
+                "homepage": null,
                 "id": 71031903,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-08-26T12:48:45Z",
+                "open_issues": 0,
                 "owner": "areai51",
                 "repo": "yarn-cheatsheet",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -473,12 +738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 659631192,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-06-29T09:25:29Z",
+                "open_issues": 0,
                 "owner": "nnupoor",
                 "repo": "js_designpatterns",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
@@ -496,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy, clean, reliable Python 2/3 compatibility",
+                "homepage": "http://python-future.org",
                 "id": 11403699,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-24T14:11:10Z",
+                "open_issues": 190,
                 "owner": "PythonCharmers",
                 "repo": "python-future",
-                "stars": 1189
+                "stars": 1189,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
@@ -519,12 +794,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An overview of the features, changes, and backward compatibility breakages in PHP 7",
+                "homepage": null,
                 "id": 36725241,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2018-08-14T01:02:59Z",
+                "open_issues": 2,
                 "owner": "tpunt",
                 "repo": "PHP7-Reference",
-                "stars": 1368
+                "stars": 1368,
+                "topics": [
+                  "php",
+                  "php7",
+                  "php71",
+                  "php72"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
@@ -543,12 +828,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+            "homepage": "http://slides.com/drksephy/ecmascript-2015",
             "id": 50134307,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-08T07:44:38Z",
+            "open_issues": 7,
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13323
+            "stars": 13322,
+            "topics": [
+              "cheatsheet",
+              "es6-javascript",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -559,12 +853,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 21931810,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-08-11T02:36:03Z",
+            "open_issues": 51,
             "owner": "petehunt",
             "repo": "webpack-howto",
-            "stars": 10000
+            "stars": 10000,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -575,12 +874,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jest cheat sheet",
+            "homepage": null,
             "id": 84238782,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-10-30T07:49:42Z",
+            "open_issues": 0,
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
-            "stars": 5421
+            "stars": 5421,
+            "topics": [
+              "cheatsheet",
+              "jest",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -591,12 +899,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Most of the React Native styling material in one page",
+            "homepage": null,
             "id": 65492963,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-12T17:19:33Z",
+            "open_issues": 1,
             "owner": "vhpoet",
             "repo": "react-native-styling-cheat-sheet",
-            "stars": 4958
+            "stars": 4958,
+            "topics": [
+              "cheatsheet",
+              "flexbox",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -613,12 +930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laravel Cheat Sheet",
+            "homepage": null,
             "id": 11966647,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-10-02T07:28:35Z",
+            "open_issues": 26,
             "owner": "jesseobrien",
             "repo": "laravel-cheatsheet",
-            "stars": 1216
+            "stars": 1216,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -629,12 +951,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cheat sheet for creating web apps with the Django framework.",
+            "homepage": null,
             "id": 138101686,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-10-20T18:24:05Z",
+            "open_issues": 4,
             "owner": "lucrae",
             "repo": "django-cheat-sheet",
-            "stars": 810
+            "stars": 810,
+            "topics": [
+              "django"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -651,12 +980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 40793364,
             "language": null,
+            "license": null,
             "last_commit": "2019-07-20T21:09:03Z",
+            "open_issues": 1,
             "owner": "leojavier",
             "repo": "MongoDb-cheat-sheet",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -667,12 +1001,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheat Sheets for Db2",
+            "homepage": null,
             "id": 164363760,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2021-02-24T01:44:25Z",
+            "open_issues": 7,
             "owner": "angoca",
             "repo": "db2-cheat-sheet",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cheatsheet",
+              "db2",
+              "db2luw",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -689,12 +1033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Acm Cheat Sheet",
+            "homepage": null,
             "id": 9417010,
             "language": "TeX",
+            "license": null,
             "last_commit": "2022-09-11T09:04:06Z",
+            "open_issues": 15,
             "owner": "soulmachine",
             "repo": "acm-cheat-sheet",
-            "stars": 1716
+            "stars": 1716,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -705,12 +1054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Regular Expression Cheat Sheet - PCRE ",
+            "homepage": null,
             "id": 38562024,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-19T08:01:50Z",
+            "open_issues": 0,
             "owner": "niklongstone",
             "repo": "regular-expression-cheat-sheet",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -727,12 +1081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of keyboard shortcuts for the Atom text editor",
+            "homepage": null,
             "id": 22341767,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-01-11T11:47:00Z",
+            "open_issues": 6,
             "owner": "nwinkler",
             "repo": "atom-keyboard-shortcuts",
-            "stars": 1929
+            "stars": 1929,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -743,12 +1102,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔖  The Ultimate Markdown Cheatsheet",
+            "homepage": "https://mahbub.ninja/blog/post/2021-04-09_The-Ultimate-Markdown-Cheat-Sheet-3d3976b31a0",
             "id": 347274393,
             "language": "Mermaid",
+            "license": "MIT",
             "last_commit": "2025-07-12T15:09:57Z",
+            "open_issues": 5,
             "owner": "lifeparticle",
             "repo": "Markdown-Cheatsheet",
-            "stars": 831
+            "stars": 831,
+            "topics": [
+              "awesome",
+              "cheetsheet",
+              "commonmark",
+              "gfm",
+              "github",
+              "markdown",
+              "markdown-cheatsheet"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -759,12 +1131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A printable cheat sheet for the Eclipse SDK",
+            "homepage": null,
             "id": 13783521,
             "language": null,
+            "license": "EPL-1.0",
             "last_commit": "2024-03-12T14:36:34Z",
+            "open_issues": 1,
             "owner": "pellaton",
             "repo": "eclipse-cheatsheet",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -781,12 +1158,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use your macOS terminal shell to do awesome things.",
+            "homepage": null,
             "id": 42956467,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-04T11:01:49Z",
+            "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30856
+            "stars": 30856,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "macos",
+              "macosx",
+              "shell",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -797,12 +1187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+            "homepage": null,
             "id": 16677706,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
+            "open_issues": 270,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24351
+            "stars": 24350,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -818,12 +1213,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of cool features of Git and GitHub.",
+                "homepage": "http://git.io/sheet",
                 "id": 18708860,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-15T20:15:56Z",
+                "open_issues": 48,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58767
+                "stars": 58774,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "git",
+                  "github",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -834,12 +1240,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Git Style Guide",
+                "homepage": null,
                 "id": 33088032,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-09-26T20:12:02Z",
+                "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5116
+                "stars": 5116,
+                "topics": [
+                  "git",
+                  "style",
+                  "style-guide",
+                  "styleguide"
+                ]
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             },
@@ -850,24 +1266,39 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cheatsheet on the usage of git flow",
+                "homepage": null,
                 "id": 5243244,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-12-18T10:38:18Z",
+                "open_issues": 22,
                 "owner": "danielkummer",
                 "repo": "git-flow-cheatsheet",
-                "stars": 2513
+                "stars": 2513,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: git and git flow cheat sheet",
+            "homepage": null,
             "id": 22106110,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-04T07:50:34Z",
+            "open_issues": 2,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7436
+            "stars": 7436,
+            "topics": [
+              "cheatsheet",
+              "git",
+              "git-flow",
+              "github"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -878,12 +1309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of my most used commands and shortcuts in the terminal for Mac",
+            "homepage": null,
             "id": 3162600,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:36:20Z",
+            "open_issues": 8,
             "owner": "0nn0",
             "repo": "terminal-mac-cheatsheet",
-            "stars": 7407
+            "stars": 7407,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -894,12 +1330,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RSpec cheatsheet & Rails app: Learn how to expertly test Rails apps from a model codebase",
+            "homepage": null,
             "id": 26821763,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-07-26T09:46:32Z",
+            "open_issues": 39,
             "owner": "eliotsykes",
             "repo": "rspec-rails-examples",
-            "stars": 2148
+            "stars": 2148,
+            "topics": [
+              "factory-girl",
+              "learning-rspec",
+              "rails",
+              "rails-application",
+              "rails-tutorial",
+              "rspec-cheatsheet",
+              "rspec-examples",
+              "rspec-matchers",
+              "rspec-rails",
+              "rspec-testing",
+              "ruby",
+              "ruby-on-rails",
+              "shoulda-matchers"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -910,12 +1365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheat sheet for GDAL/OGR command-line tools",
+            "homepage": null,
             "id": 7845525,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-13T09:13:32Z",
+            "open_issues": 5,
             "owner": "dwtkns",
             "repo": "gdal-cheat-sheet",
-            "stars": 1223
+            "stars": 1223,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -926,12 +1386,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A single page document with the most important curl options for HTTP explained",
+            "homepage": "https://curl.github.io/curl-cheat-sheet/http-sheet.html",
             "id": 42503435,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-19T11:32:43Z",
+            "open_issues": 0,
             "owner": "curl",
             "repo": "curl-cheat-sheet",
-            "stars": 380
+            "stars": 380,
+            "topics": [
+              "cheatsheet",
+              "curl",
+              "documentation",
+              "http"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -942,12 +1412,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated by Lenses.io",
+            "homepage": "https://lenses.io",
             "id": 86274856,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-23T08:07:36Z",
+            "open_issues": 0,
             "owner": "lensesio",
             "repo": "kafka-cheat-sheet",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "kafka",
+              "kafka-commands"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -958,12 +1436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 40151825,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2015-09-21T19:03:30Z",
+            "open_issues": 0,
             "owner": "calio",
             "repo": "systemtap-cheat-sheet",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -980,12 +1463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors",
+            "homepage": "https://html5sec.org/",
             "id": 18205926,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2022-02-23T16:46:20Z",
+            "open_issues": 2,
             "owner": "cure53",
             "repo": "H5SC",
-            "stars": 2938
+            "stars": 2938,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -996,12 +1484,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔒 A collection of cheatsheets for various infosec tools and topics.",
+            "homepage": "https://andrewjkerr.com",
             "id": 14162259,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-03-18T02:18:03Z",
+            "open_issues": 1,
             "owner": "andrewjkerr",
             "repo": "security-cheatsheets",
-            "stars": 1395
+            "stars": 1395,
+            "topics": [
+              "bash",
+              "cheatsheets",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -1018,12 +1515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a cheat-sheet for mathematical notation in code form",
+            "homepage": null,
             "id": 38273467,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-03-08T02:36:31Z",
+            "open_issues": 36,
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15488
+            "stars": 15488,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -1034,12 +1536,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5",
+            "homepage": "https://aicheatsheets.com",
             "id": 92287968,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-10-19T12:33:06Z",
+            "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15428
+            "stars": 15429,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "keras",
+              "machine-learning",
+              "matplotlib",
+              "numpy",
+              "scipy"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -1050,12 +1565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easing Functions Cheat Sheet",
+            "homepage": "https://easings.net",
             "id": 3796591,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-07T06:03:38Z",
+            "open_issues": 28,
             "owner": "ai",
             "repo": "easings.net",
-            "stars": 8672
+            "stars": 8672,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -1066,12 +1586,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.",
+            "homepage": null,
             "id": 43485323,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-08T14:18:04Z",
+            "open_issues": 17,
             "owner": "tanprathan",
             "repo": "MobileApp-Pentest-Cheatsheet",
-            "stars": 5258
+            "stars": 5259,
+            "topics": [
+              "android-application",
+              "dynamic-analysis",
+              "ios-app",
+              "mobile-app",
+              "network-analysis",
+              "pentesting",
+              "reverse-engineers",
+              "runtime-analysis",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -1082,12 +1617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API Design Guidelines and Best Practices Cheat Sheet",
+            "homepage": null,
             "id": 38334165,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-03T06:45:24Z",
+            "open_issues": 4,
             "owner": "RestCheatSheet",
             "repo": "api-cheat-sheet",
-            "stars": 1161
+            "stars": 1161,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -1098,12 +1638,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheat sheet for x86-64 Linux systems programming",
+            "homepage": null,
             "id": 381834527,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2021-07-02T18:21:52Z",
+            "open_issues": 0,
             "owner": "jstrieb",
             "repo": "systems-programming-cheat-sheet",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "cheat-sheet",
+              "cheat-sheets",
+              "cheatsheet",
+              "cheatsheets",
+              "systems-programming",
+              "unix",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         },
@@ -1114,12 +1667,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cheatsheet of Terms used within the Video Streaming Industry",
+            "homepage": null,
             "id": 507330995,
             "language": "TeX",
+            "license": "Unlicense",
             "last_commit": "2024-04-08T17:03:25Z",
+            "open_issues": 4,
             "owner": "robert-will-brown",
             "repo": "video-streaming-cheatsheet",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "cheat-sheets",
+              "cheatsheet",
+              "cheatsheets",
+              "latex",
+              "pdf",
+              "streaming",
+              "video",
+              "video-processing",
+              "video-streaming"
+            ]
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
         }
@@ -1128,15 +1696,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:09.898Z",
+    "last_updated": "2026-08-29T04:13:08.507Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":beers: awesome cheatsheet",
+      "homepage": null,
       "id": 13767276,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-03-26T09:44:15Z",
+      "open_issues": 9,
       "owner": "detailyang",
       "repo": "awesome-cheatsheet",
-      "stars": 8540
+      "stars": 8540,
+      "topics": [
+        "awesome",
+        "cheatsheet"
+      ]
     },
     "original_repository_sha": "e7507591b93e2cfd924a55e4ccb8056c44c43ac5",
     "enhanced_repository": "enhansome/enhansome-cheatsheet",
