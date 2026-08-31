@@ -24,7 +24,7 @@
                 "open_issues": 77,
                 "owner": "jessfraz",
                 "repo": "dockerfiles",
-                "stars": 13937,
+                "stars": 13938,
                 "topics": [
                   "bash",
                   "containers",
@@ -49,7 +49,7 @@
             "open_issues": 7,
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22544,
+            "stars": 22547,
             "topics": [
               "cheet-sheet",
               "docker"
@@ -69,11 +69,11 @@
             "id": 1390248,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T21:19:39Z",
+            "last_commit": "2026-08-31T10:49:42Z",
             "open_issues": 1944,
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15638,
+            "stars": 15636,
             "topics": [
               "cloud",
               "cloud-management",
@@ -434,10 +434,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-30T17:16:07Z",
-                "open_issues": 576,
+                "open_issues": 578,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189458,
+                "stars": 189484,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -474,7 +474,7 @@
                 "open_issues": 184,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37537,
+                "stars": 37542,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -600,7 +600,7 @@
                 "open_issues": 0,
                 "owner": "augustl",
                 "repo": "net-http-cheat-sheet",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:09.898Z"
@@ -701,7 +701,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13321,
+                "stars": 13320,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -837,7 +837,7 @@
             "open_issues": 7,
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13321,
+            "stars": 13320,
             "topics": [
               "cheatsheet",
               "es6-javascript",
@@ -862,7 +862,7 @@
             "open_issues": 51,
             "owner": "petehunt",
             "repo": "webpack-howto",
-            "stars": 10000,
+            "stars": 10001,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -883,7 +883,7 @@
             "open_issues": 0,
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
-            "stars": 5421,
+            "stars": 5420,
             "topics": [
               "cheatsheet",
               "jest",
@@ -1111,7 +1111,7 @@
             "open_issues": 5,
             "owner": "lifeparticle",
             "repo": "Markdown-Cheatsheet",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "awesome",
               "cheetsheet",
@@ -1167,7 +1167,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30861,
+            "stars": 30864,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1193,10 +1193,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
-            "open_issues": 270,
+            "open_issues": 271,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24352,
+            "stars": 24349,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1222,7 +1222,7 @@
                 "open_issues": 48,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58799,
+                "stars": 58816,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1292,7 +1292,7 @@
             "open_issues": 2,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7438,
+            "stars": 7440,
             "topics": [
               "cheatsheet",
               "git",
@@ -1318,7 +1318,7 @@
             "open_issues": 8,
             "owner": "0nn0",
             "repo": "terminal-mac-cheatsheet",
-            "stars": 7408,
+            "stars": 7409,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1545,7 +1545,7 @@
             "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15430,
+            "stars": 15429,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:39:24.559Z",
+    "last_updated": "2026-08-31T20:52:31.300Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
