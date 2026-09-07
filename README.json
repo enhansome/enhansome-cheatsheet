@@ -49,7 +49,7 @@
             "open_issues": 7,
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22543,
+            "stars": 22542,
             "topics": [
               "cheet-sheet",
               "docker"
@@ -70,10 +70,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T21:18:58Z",
-            "open_issues": 1885,
+            "open_issues": 1886,
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15647,
+            "stars": 15649,
             "topics": [
               "cloud",
               "cloud-management",
@@ -235,7 +235,7 @@
             "open_issues": 24,
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8823,
+            "stars": 8825,
             "topics": [
               "cheat-sheets",
               "cheatsheet",
@@ -433,11 +433,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-06T15:56:09Z",
-                "open_issues": 440,
+                "last_commit": "2026-09-07T15:26:51Z",
+                "open_issues": 431,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189587,
+                "stars": 189616,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -474,7 +474,7 @@
                 "open_issues": 184,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37569,
+                "stars": 37577,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -509,7 +509,7 @@
                     "open_issues": 8,
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10064,
+                    "stars": 10066,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1167,7 +1167,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30880,
+            "stars": 30885,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1196,7 +1196,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24343,
+            "stars": 24344,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1222,7 +1222,7 @@
                 "open_issues": 48,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58903,
+                "stars": 58924,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1292,7 +1292,7 @@
             "open_issues": 2,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7441,
+            "stars": 7442,
             "topics": [
               "cheatsheet",
               "git",
@@ -1493,7 +1493,7 @@
             "open_issues": 1,
             "owner": "andrewjkerr",
             "repo": "security-cheatsheets",
-            "stars": 1397,
+            "stars": 1396,
             "topics": [
               "bash",
               "cheatsheets",
@@ -1545,7 +1545,7 @@
             "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15431,
+            "stars": 15432,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1595,7 +1595,7 @@
             "open_issues": 17,
             "owner": "tanprathan",
             "repo": "MobileApp-Pentest-Cheatsheet",
-            "stars": 5263,
+            "stars": 5265,
             "topics": [
               "android-application",
               "dynamic-analysis",
@@ -1626,7 +1626,7 @@
             "open_issues": 4,
             "owner": "RestCheatSheet",
             "repo": "api-cheat-sheet",
-            "stars": 1161,
+            "stars": 1162,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:37:23.787Z",
+    "last_updated": "2026-09-07T19:14:40.135Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
@@ -1708,7 +1708,7 @@
       "open_issues": 8,
       "owner": "detailyang",
       "repo": "awesome-cheatsheet",
-      "stars": 8549,
+      "stars": 8550,
       "topics": [
         "awesome",
         "cheatsheet"
