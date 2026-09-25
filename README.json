@@ -69,11 +69,11 @@
             "id": 1390248,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T07:12:14Z",
-            "open_issues": 1896,
+            "last_commit": "2026-09-25T09:13:34Z",
+            "open_issues": 1898,
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15676,
+            "stars": 15675,
             "topics": [
               "cloud",
               "cloud-management",
@@ -319,7 +319,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15254,
+                "stars": 15256,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -437,7 +437,7 @@
                 "open_issues": 299,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189909,
+                "stars": 189924,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -474,7 +474,7 @@
                 "open_issues": 186,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37669,
+                "stars": 37674,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -509,7 +509,7 @@
                     "open_issues": 7,
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10095,
+                    "stars": 10098,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13306,
+                "stars": 13304,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -803,7 +803,7 @@
                 "open_issues": 2,
                 "owner": "tpunt",
                 "repo": "PHP7-Reference",
-                "stars": 1367,
+                "stars": 1366,
                 "topics": [
                   "php",
                   "php7",
@@ -837,7 +837,7 @@
             "open_issues": 7,
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13306,
+            "stars": 13304,
             "topics": [
               "cheatsheet",
               "es6-javascript",
@@ -862,7 +862,7 @@
             "open_issues": 51,
             "owner": "petehunt",
             "repo": "webpack-howto",
-            "stars": 9998,
+            "stars": 9997,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1167,7 +1167,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30934,
+            "stars": 30942,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1196,7 +1196,7 @@
             "open_issues": 274,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24339,
+            "stars": 24337,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1222,7 +1222,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59251,
+                "stars": 59269,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1289,10 +1289,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-04T07:50:34Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7462,
+            "stars": 7463,
             "topics": [
               "cheatsheet",
               "git",
@@ -1524,7 +1524,7 @@
             "open_issues": 36,
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15494,
+            "stars": 15496,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1574,7 +1574,7 @@
             "open_issues": 28,
             "owner": "ai",
             "repo": "easings.net",
-            "stars": 8690,
+            "stars": 8691,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1595,7 +1595,7 @@
             "open_issues": 17,
             "owner": "tanprathan",
             "repo": "MobileApp-Pentest-Cheatsheet",
-            "stars": 5277,
+            "stars": 5280,
             "topics": [
               "android-application",
               "dynamic-analysis",
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:17:51.211Z",
+    "last_updated": "2026-09-25T19:20:09.209Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
@@ -1708,7 +1708,7 @@
       "open_issues": 8,
       "owner": "detailyang",
       "repo": "awesome-cheatsheet",
-      "stars": 8576,
+      "stars": 8577,
       "topics": [
         "awesome",
         "cheatsheet"
