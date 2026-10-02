@@ -49,7 +49,7 @@
             "open_issues": 7,
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22553,
+            "stars": 22552,
             "topics": [
               "cheet-sheet",
               "docker"
@@ -70,10 +70,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T21:18:40Z",
-            "open_issues": 1894,
+            "open_issues": 1876,
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15687,
+            "stars": 15685,
             "topics": [
               "cloud",
               "cloud-management",
@@ -319,7 +319,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15251,
+                "stars": 15250,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -437,7 +437,7 @@
                 "open_issues": 302,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190027,
+                "stars": 190039,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -474,7 +474,7 @@
                 "open_issues": 188,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37699,
+                "stars": 37702,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -509,7 +509,7 @@
                     "open_issues": 7,
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10112,
+                    "stars": 10114,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13304,
+                "stars": 13303,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -837,7 +837,7 @@
             "open_issues": 7,
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13304,
+            "stars": 13303,
             "topics": [
               "cheatsheet",
               "es6-javascript",
@@ -1111,7 +1111,7 @@
             "open_issues": 5,
             "owner": "lifeparticle",
             "repo": "Markdown-Cheatsheet",
-            "stars": 840,
+            "stars": 838,
             "topics": [
               "awesome",
               "cheetsheet",
@@ -1167,7 +1167,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30952,
+            "stars": 30956,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1196,7 +1196,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24353,
+            "stars": 24354,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1222,7 +1222,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59389,
+                "stars": 59408,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1249,7 +1249,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5113,
+                "stars": 5112,
                 "topics": [
                   "git",
                   "style",
@@ -1318,7 +1318,7 @@
             "open_issues": 8,
             "owner": "0nn0",
             "repo": "terminal-mac-cheatsheet",
-            "stars": 7416,
+            "stars": 7414,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1524,7 +1524,7 @@
             "open_issues": 36,
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15495,
+            "stars": 15496,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1574,7 +1574,7 @@
             "open_issues": 29,
             "owner": "ai",
             "repo": "easings.net",
-            "stars": 8698,
+            "stars": 8697,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1595,7 +1595,7 @@
             "open_issues": 17,
             "owner": "tanprathan",
             "repo": "MobileApp-Pentest-Cheatsheet",
-            "stars": 5283,
+            "stars": 5286,
             "topics": [
               "android-application",
               "dynamic-analysis",
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:23:04.475Z",
+    "last_updated": "2026-10-02T19:59:20.108Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
