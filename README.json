@@ -6,12 +6,12 @@
         {
           "node_type": "item",
           "title": "docker",
-          "description": null,
+          "description": "wsargent/docker-cheat-sheet",
           "children": [
             {
               "node_type": "item",
               "title": "dockerfiles",
-              "description": null,
+              "description": "jessfraz/dockerfiles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "saltstack",
-          "description": null,
+          "description": "saltstack/salt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -70,7 +70,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T21:18:40Z",
-            "open_issues": 1876,
+            "open_issues": 1877,
             "owner": "saltstack",
             "repo": "salt",
             "stars": 15685,
@@ -99,7 +99,7 @@
         {
           "node_type": "item",
           "title": "nginx-cheatsheet",
-          "description": null,
+          "description": "SimulatedGREG/nginx-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -124,12 +124,12 @@
         {
           "node_type": "item",
           "title": "ios-cheat-sheet",
-          "description": null,
+          "description": "Avocarrot/ios-cheatsheet",
           "children": [
             {
               "node_type": "item",
               "title": "UI-Testing-Cheat-Sheet",
-              "description": null,
+              "description": "joemasilotti/UI-Testing-Cheat-Sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "iOS-App-Performance-Cheatsheet",
-              "description": null,
+              "description": "danielamitay/iOS-App-Performance-Cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -200,12 +200,12 @@
         {
           "node_type": "item",
           "title": "golang-cheat-sheet",
-          "description": null,
+          "description": "a8m/golang-cheat-sheet",
           "children": [
             {
               "node_type": "item",
               "title": "Cheat sheet for some of the common concurrent flows in Go",
-              "description": null,
+              "description": "rakyll/coop",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "solidity",
-          "description": null,
+          "description": "manojpramesh/solidity-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "objective-c-cheat-sheet",
-          "description": null,
+          "description": "iwasrobbed/Objective-C-CheatSheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,12 +301,12 @@
         {
           "node_type": "item",
           "title": "swift cheatsheet",
-          "description": null,
+          "description": "iwasrobbed/Swift-CheatSheet",
           "children": [
             {
               "node_type": "item",
               "title": "swift design patterns",
-              "description": null,
+              "description": "ochococo/Design-Patterns-In-Swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -335,7 +335,7 @@
             {
               "node_type": "item",
               "title": "Playgrounds",
-              "description": null,
+              "description": "uraimo/Awesome-Swift-Playgrounds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -348,7 +348,7 @@
                 "open_issues": 1,
                 "owner": "uraimo",
                 "repo": "Awesome-Swift-Playgrounds",
-                "stars": 4388,
+                "stars": 4389,
                 "topics": [
                   "apple",
                   "apple-playground",
@@ -391,7 +391,7 @@
         {
           "node_type": "item",
           "title": "elm-cheat-sheet",
-          "description": null,
+          "description": "izdi/elm-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -419,12 +419,12 @@
         {
           "node_type": "item",
           "title": "shell-cheat-sheet",
-          "description": null,
+          "description": "NisreenFarhoud/Bash-Cheatsheet",
           "children": [
             {
               "node_type": "item",
               "title": "oh-my-zsh cheatsheet",
-              "description": null,
+              "description": "ohmyzsh/ohmyzsh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -434,10 +434,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-29T15:38:41Z",
-                "open_issues": 302,
+                "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190039,
+                "stars": 190046,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -461,7 +461,7 @@
             {
               "node_type": "item",
               "title": "awesome-shell",
-              "description": null,
+              "description": "alebcay/awesome-shell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -474,7 +474,7 @@
                 "open_issues": 188,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37702,
+                "stars": 37708,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -496,7 +496,7 @@
                 {
                   "node_type": "item",
                   "title": "awesome-bash",
-                  "description": null,
+                  "description": "awesome-lists/awesome-bash",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -509,7 +509,7 @@
                     "open_issues": 7,
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10114,
+                    "stars": 10118,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -521,7 +521,7 @@
                 {
                   "node_type": "item",
                   "title": "bash redirections",
-                  "description": null,
+                  "description": "pkrumins/bash-redirections-cheat-sheet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -561,7 +561,7 @@
         {
           "node_type": "item",
           "title": "ragel-cheat-sheet",
-          "description": null,
+          "description": "calio/ragel-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -582,12 +582,12 @@
         {
           "node_type": "item",
           "title": "ruby-cheat-sheet",
-          "description": null,
+          "description": "brennovich/cheat-ruby-sheets",
           "children": [
             {
               "node_type": "item",
               "title": "A collection of Ruby Net::HTTP examples",
-              "description": null,
+              "description": "augustl/net-http-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -625,7 +625,7 @@
         {
           "node_type": "item",
           "title": "coffeescript_cheatsheet",
-          "description": null,
+          "description": "icebob/coffeescript_cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -651,7 +651,7 @@
             {
               "node_type": "item",
               "title": "java8-cheat-sheet",
-              "description": null,
+              "description": "BafS/Java8-CheatSheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -688,7 +688,7 @@
             {
               "node_type": "item",
               "title": "es6-cheatsheet",
-              "description": null,
+              "description": "DrkSephy/es6-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -713,7 +713,7 @@
             {
               "node_type": "item",
               "title": "npm-vs-yarn-cheat-sheet",
-              "description": null,
+              "description": "areai51/yarn-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +734,7 @@
             {
               "node_type": "item",
               "title": "javascript-design-pattern",
-              "description": null,
+              "description": "nnupoor/js_designpatterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +762,7 @@
             {
               "node_type": "item",
               "title": "python future",
-              "description": null,
+              "description": "PythonCharmers/python-future",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -790,7 +790,7 @@
             {
               "node_type": "item",
               "title": "PHP7-Reference",
-              "description": null,
+              "description": "tpunt/PHP7-Reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -824,7 +824,7 @@
         {
           "node_type": "item",
           "title": "es6-cheatsheet",
-          "description": null,
+          "description": "DrkSephy/es6-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -849,7 +849,7 @@
         {
           "node_type": "item",
           "title": "webpack",
-          "description": null,
+          "description": "petehunt/webpack-howto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -870,7 +870,7 @@
         {
           "node_type": "item",
           "title": "jest-cheat-sheet",
-          "description": null,
+          "description": "sapegin/jest-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -895,7 +895,7 @@
         {
           "node_type": "item",
           "title": "react-native-styling-cheat-sheet",
-          "description": null,
+          "description": "vhpoet/react-native-styling-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -926,7 +926,7 @@
         {
           "node_type": "item",
           "title": "laravel-cheatsheet",
-          "description": null,
+          "description": "jesseobrien/laravel-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -947,7 +947,7 @@
         {
           "node_type": "item",
           "title": "django-cheatsheet",
-          "description": null,
+          "description": "lucrae/django-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -976,7 +976,7 @@
         {
           "node_type": "item",
           "title": "MongoDb-cheat-sheet",
-          "description": null,
+          "description": "leojavier/MongoDb-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -997,7 +997,7 @@
         {
           "node_type": "item",
           "title": "Db2 CheatSheet for development",
-          "description": null,
+          "description": "angoca/db2-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1029,7 +1029,7 @@
         {
           "node_type": "item",
           "title": "acm-cheat-sheet",
-          "description": null,
+          "description": "soulmachine/acm-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1050,7 +1050,7 @@
         {
           "node_type": "item",
           "title": "regular-expression-cheat-sheet",
-          "description": null,
+          "description": "niklongstone/regular-expression-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1077,7 +1077,7 @@
         {
           "node_type": "item",
           "title": "Atom",
-          "description": null,
+          "description": "nwinkler/atom-keyboard-shortcuts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1098,7 +1098,7 @@
         {
           "node_type": "item",
           "title": "MarkDown Cheat Sheet",
-          "description": null,
+          "description": "lifeparticle/Markdown-Cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1127,7 +1127,7 @@
         {
           "node_type": "item",
           "title": "Eclipse",
-          "description": null,
+          "description": "pellaton/eclipse-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1154,7 +1154,7 @@
         {
           "node_type": "item",
           "title": "mac-command-line-cheatsheet",
-          "description": null,
+          "description": "herrbischoff/awesome-macos-command-line",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1167,7 +1167,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30956,
+            "stars": 30957,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1183,7 +1183,7 @@
         {
           "node_type": "item",
           "title": "sysadmin",
-          "description": null,
+          "description": "kahun/awesome-sysadmin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1204,12 +1204,12 @@
         {
           "node_type": "item",
           "title": "Git Cheat Sheet and Git Flow",
-          "description": null,
+          "description": "arslanbilal/git-cheat-sheet",
           "children": [
             {
               "node_type": "item",
               "title": "github-cheat-sheet",
-              "description": null,
+              "description": "tiimgreen/github-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1222,7 +1222,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59408,
+                "stars": 59418,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1236,7 +1236,7 @@
             {
               "node_type": "item",
               "title": "git-style-guide",
-              "description": null,
+              "description": "agis/git-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,7 +1262,7 @@
             {
               "node_type": "item",
               "title": "git-flow-cheatsheet",
-              "description": null,
+              "description": "danielkummer/git-flow-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1305,7 +1305,7 @@
         {
           "node_type": "item",
           "title": "terminal-mac-cheatsheet",
-          "description": null,
+          "description": "0nn0/terminal-mac-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1326,7 +1326,7 @@
         {
           "node_type": "item",
           "title": "RSpec cheatsheet",
-          "description": null,
+          "description": "eliotsykes/rspec-rails-examples",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1361,7 +1361,7 @@
         {
           "node_type": "item",
           "title": "GDAL/OGR command-line tools",
-          "description": null,
+          "description": "dwtkns/gdal-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1382,7 +1382,7 @@
         {
           "node_type": "item",
           "title": "curl",
-          "description": null,
+          "description": "curl/curl-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1408,7 +1408,7 @@
         {
           "node_type": "item",
           "title": "Kafka",
-          "description": null,
+          "description": "lensesio/kafka-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1432,7 +1432,7 @@
         {
           "node_type": "item",
           "title": "systemtap-cheat-sheet",
-          "description": null,
+          "description": "calio/systemtap-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1459,7 +1459,7 @@
         {
           "node_type": "item",
           "title": "HTML5 Security Cheatsheet",
-          "description": null,
+          "description": "cure53/H5SC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1480,7 +1480,7 @@
         {
           "node_type": "item",
           "title": "Security Tools Cheatsheets",
-          "description": null,
+          "description": "andrewjkerr/security-cheatsheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1511,7 +1511,7 @@
         {
           "node_type": "item",
           "title": "math-as-code",
-          "description": null,
+          "description": "Experience-Monks/math-as-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1532,7 +1532,7 @@
         {
           "node_type": "item",
           "title": "cheatsheets-ai",
-          "description": null,
+          "description": "kailashahirwar/cheatsheets-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1561,7 +1561,7 @@
         {
           "node_type": "item",
           "title": "easings.net",
-          "description": null,
+          "description": "ai/easings.net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1582,7 +1582,7 @@
         {
           "node_type": "item",
           "title": "MobileApp-Pentest-Cheatsheet",
-          "description": null,
+          "description": "tanprathan/MobileApp-Pentest-Cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1613,7 +1613,7 @@
         {
           "node_type": "item",
           "title": "api-cheat-sheet",
-          "description": null,
+          "description": "RestCheatSheet/api-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1634,7 +1634,7 @@
         {
           "node_type": "item",
           "title": "Systems Programming Cheat Sheet",
-          "description": null,
+          "description": "jstrieb/systems-programming-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1663,7 +1663,7 @@
         {
           "node_type": "item",
           "title": "Video Streaming Cheatsheet",
-          "description": null,
+          "description": "robert-will-brown/video-streaming-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:59:20.108Z",
+    "last_updated": "2026-10-03T04:42:59.910Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
@@ -1708,7 +1708,7 @@
       "open_issues": 8,
       "owner": "detailyang",
       "repo": "awesome-cheatsheet",
-      "stars": 8584,
+      "stars": 8585,
       "topics": [
         "awesome",
         "cheatsheet"
