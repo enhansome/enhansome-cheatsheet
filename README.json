@@ -73,7 +73,7 @@
             "open_issues": 1877,
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15685,
+            "stars": 15686,
             "topics": [
               "cloud",
               "cloud-management",
@@ -437,7 +437,7 @@
                 "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190046,
+                "stars": 190072,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -474,7 +474,7 @@
                 "open_issues": 188,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37708,
+                "stars": 37716,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -509,7 +509,7 @@
                     "open_issues": 7,
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10118,
+                    "stars": 10120,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13303,
+                "stars": 13304,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -837,7 +837,7 @@
             "open_issues": 7,
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13303,
+            "stars": 13304,
             "topics": [
               "cheatsheet",
               "es6-javascript",
@@ -883,7 +883,7 @@
             "open_issues": 0,
             "owner": "sapegin",
             "repo": "jest-cheat-sheet",
-            "stars": 5415,
+            "stars": 5414,
             "topics": [
               "cheatsheet",
               "jest",
@@ -1222,7 +1222,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59418,
+                "stars": 59430,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1292,7 +1292,7 @@
             "open_issues": 1,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7463,
+            "stars": 7465,
             "topics": [
               "cheatsheet",
               "git",
@@ -1574,7 +1574,7 @@
             "open_issues": 29,
             "owner": "ai",
             "repo": "easings.net",
-            "stars": 8697,
+            "stars": 8696,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:59.910Z",
+    "last_updated": "2026-10-03T18:43:24.744Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
@@ -1708,7 +1708,7 @@
       "open_issues": 8,
       "owner": "detailyang",
       "repo": "awesome-cheatsheet",
-      "stars": 8585,
+      "stars": 8586,
       "topics": [
         "awesome",
         "cheatsheet"
