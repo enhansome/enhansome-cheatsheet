@@ -69,11 +69,11 @@
             "id": 1390248,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:18:40Z",
-            "open_issues": 1877,
+            "last_commit": "2026-10-03T21:19:54Z",
+            "open_issues": 1878,
             "owner": "saltstack",
             "repo": "salt",
-            "stars": 15686,
+            "stars": 15688,
             "topics": [
               "cloud",
               "cloud-management",
@@ -433,11 +433,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-29T15:38:41Z",
-                "open_issues": 303,
+                "last_commit": "2026-10-04T12:52:46Z",
+                "open_issues": 305,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190072,
+                "stars": 190149,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -474,7 +474,7 @@
                 "open_issues": 188,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37716,
+                "stars": 37718,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -701,7 +701,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13304,
+                "stars": 13305,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -837,7 +837,7 @@
             "open_issues": 7,
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13304,
+            "stars": 13305,
             "topics": [
               "cheatsheet",
               "es6-javascript",
@@ -1111,7 +1111,7 @@
             "open_issues": 5,
             "owner": "lifeparticle",
             "repo": "Markdown-Cheatsheet",
-            "stars": 838,
+            "stars": 839,
             "topics": [
               "awesome",
               "cheetsheet",
@@ -1167,7 +1167,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30957,
+            "stars": 30958,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1196,7 +1196,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24354,
+            "stars": 24355,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1222,7 +1222,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59430,
+                "stars": 59449,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1395,7 +1395,7 @@
             "open_issues": 0,
             "owner": "curl",
             "repo": "curl-cheat-sheet",
-            "stars": 380,
+            "stars": 381,
             "topics": [
               "cheatsheet",
               "curl",
@@ -1545,7 +1545,7 @@
             "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15432,
+            "stars": 15433,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1574,7 +1574,7 @@
             "open_issues": 29,
             "owner": "ai",
             "repo": "easings.net",
-            "stars": 8696,
+            "stars": 8698,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1595,7 +1595,7 @@
             "open_issues": 17,
             "owner": "tanprathan",
             "repo": "MobileApp-Pentest-Cheatsheet",
-            "stars": 5286,
+            "stars": 5287,
             "topics": [
               "android-application",
               "dynamic-analysis",
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:43:24.744Z",
+    "last_updated": "2026-10-04T18:40:11.093Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
