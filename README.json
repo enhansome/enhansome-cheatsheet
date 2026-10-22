@@ -69,8 +69,8 @@
             "id": 1390248,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T07:10:26Z",
-            "open_issues": 1195,
+            "last_commit": "2026-10-22T01:11:48Z",
+            "open_issues": 1179,
             "owner": "saltstack",
             "repo": "salt",
             "stars": 15720,
@@ -235,7 +235,7 @@
             "open_issues": 24,
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8836,
+            "stars": 8837,
             "topics": [
               "cheat-sheets",
               "cheatsheet",
@@ -437,7 +437,7 @@
                 "open_issues": 289,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190099,
+                "stars": 190124,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -474,7 +474,7 @@
                 "open_issues": 192,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37816,
+                "stars": 37819,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -506,10 +506,10 @@
                     "language": "Shell",
                     "license": "CC0-1.0",
                     "last_commit": "2026-05-21T14:27:17Z",
-                    "open_issues": 8,
+                    "open_issues": 7,
                     "owner": "awesome-lists",
                     "repo": "awesome-bash",
-                    "stars": 10148,
+                    "stars": 10150,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -701,7 +701,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13295,
+                "stars": 13293,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -837,7 +837,7 @@
             "open_issues": 7,
             "owner": "DrkSephy",
             "repo": "es6-cheatsheet",
-            "stars": 13295,
+            "stars": 13293,
             "topics": [
               "cheatsheet",
               "es6-javascript",
@@ -862,7 +862,7 @@
             "open_issues": 51,
             "owner": "petehunt",
             "repo": "webpack-howto",
-            "stars": 9990,
+            "stars": 9989,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -939,7 +939,7 @@
             "open_issues": 26,
             "owner": "jesseobrien",
             "repo": "laravel-cheatsheet",
-            "stars": 1216,
+            "stars": 1215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1090,7 +1090,7 @@
             "open_issues": 6,
             "owner": "nwinkler",
             "repo": "atom-keyboard-shortcuts",
-            "stars": 1928,
+            "stars": 1927,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1167,7 +1167,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31022,
+            "stars": 31023,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1193,7 +1193,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
-            "open_issues": 273,
+            "open_issues": 274,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
             "stars": 24351,
@@ -1222,7 +1222,7 @@
                 "open_issues": 50,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59837,
+                "stars": 59855,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1249,7 +1249,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5112,
+                "stars": 5111,
                 "topics": [
                   "git",
                   "style",
@@ -1292,7 +1292,7 @@
             "open_issues": 2,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7484,
+            "stars": 7483,
             "topics": [
               "cheatsheet",
               "git",
@@ -1318,7 +1318,7 @@
             "open_issues": 8,
             "owner": "0nn0",
             "repo": "terminal-mac-cheatsheet",
-            "stars": 7420,
+            "stars": 7419,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 0,
             "owner": "cure53",
             "repo": "H5SC",
-            "stars": 2938,
+            "stars": 2937,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:09.898Z"
@@ -1545,7 +1545,7 @@
             "open_issues": 12,
             "owner": "kailashahirwar",
             "repo": "cheatsheets-ai",
-            "stars": 15443,
+            "stars": 15444,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:22:18.022Z",
+    "last_updated": "2026-10-22T19:16:37.859Z",
     "original_repository_info": {
       "archived": false,
       "description": ":beers: awesome cheatsheet",
@@ -1708,7 +1708,7 @@
       "open_issues": 8,
       "owner": "detailyang",
       "repo": "awesome-cheatsheet",
-      "stars": 8625,
+      "stars": 8627,
       "topics": [
         "awesome",
         "cheatsheet"
